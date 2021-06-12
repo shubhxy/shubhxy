@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhxy
-- 👀 I’m interested in Python, Pyrogram and Yelethon
+- 👀 I’m interested in Python, Pyrogram and Telethon
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project
 - 📫 Reach me at @AlbertHere_xD on telegram
